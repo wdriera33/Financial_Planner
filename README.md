@@ -6,17 +6,25 @@
 
 
 
- Lending
+
  
-## Overview and Origin
+##  Personal Financial Planner Overview
 
-* Credit Karma
+* Financial planning for Stocks & Crypto Currency
 
-* Credit Karma was incorporated in 2008
+* An overview on "SPY" Stocks & "AGG" Bonds
 
-* Company founder Kenneth Lin
+* An overview on "BTC & ETH" Crypto Currency
 
-* Data-driven marketing consultancy Kennth worked for consumer credit and mission-based companies. September 2007, Ryan builds a simple homepage to collect email addresses of prospective members, ahead of Credit Karma’s beta launch.
+## Outlook on Homework
 
-* Credit Karma makes money by receiving a fee every time a user purchases a product or service it recommends. Credit Karma is a fintech startup focusing on providing credit information. Credit Karma has received in funding $868 million. 
+* Program consist of many tools 
 
+* API
+* JSON
+* .env file with private keys
+* graph bars
+* DataFrame
+* ect,
+
+### BY: WILLIAM RIERA
