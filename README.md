@@ -2,9 +2,9 @@
 
 
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.seekpng.com%2Fipng%2Fu2e6t4r5a9a9a9a9_icfp-financial-planning-vs-wealth-management-financial-wealth%2F&psig=AOvVaw14fsKP7wOIbARMc2YaKxfQ&ust=1649704884241000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNCTmeKbivcCFQAAAAAdAAAAABAK "Logo Title Text 1")
+![alt text](https://www.seekpng.com/png/full/413-4135721_icfp-financial-planning-vs-wealth-management-financial-wealth.png "Logo Title Text 1")
 
-# Credit Karma Case Study 
+
 
  Lending
  
